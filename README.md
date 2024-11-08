@@ -11,24 +11,24 @@ Currently, two official plugins are available:
 
 file setup 
 .netlify
-      state
+      state.json
 dist
-    index
-    vite
+    index.html
+    vite.svg
     asset
         index-C28Rdxbc
         index-DTexkck
 public
-    vite
+    vite.svg
 src
     asets
-      react
+      react.svg
     component
-      current
-      forecast
-    app.js
+      current.jsx
+      forecast.jsx
+    app.jsx
     app.css
-    index.js
+    index.jsx
     index,css
 
 the above format is just for understanding purpose........
